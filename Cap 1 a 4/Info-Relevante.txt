@@ -1,0 +1,42 @@
+﻿.NET CLR (Common Language Runtime) é a máquina virtual do .NET que possui diversas funções como:
+    >Execução de código em CIL (pré compilado [Common Intermediate Language])
+    >Gerenciamento de memória
+    >Segurança
+
+Namespace é um agrupamento lógico de Classes relacionadas
+
+Assembly ~ Project (DLL ou EXE) é um agrupamento físico de classes relacionadas (build), [conjunto de Namespaces]
+
+Aplicação ~ Solution é o conjunto de Assemblys
+
+Estrutura de Arquivos
+	>Arquivo.sln (Arquivo da solução)
+	>Arquivo.csproj (Configurações do projeto)
+	>Classe principal.cs (Arquivo da linguagem C#)
+	>Subpastas obj e bin (Onde os arquivos compilados são salvos)
+
+Arquivo.cs estrutura básica
+	using System;  ->Referência para o Namespace chamado "System"
+
+	namespace Primeiro
+	{
+    		class Program
+    		{
+        	static void Main(string[] args)  ->#Declaração que identifica o entry point da aplicação#
+        	{
+            		bool completo = false;
+            		char genero = 'F';
+            		char unicode = '\u0043';
+            		byte n1 = 255;
+            		byte max = byte.MaxValue;
+            		byte min = byte.MinValue;
+            		int n2 = 2147483647;
+            		long n3 = 2147483648L;
+            		float n4 = 4.5F;
+            		string texto = "Lucas Aires";
+            		object obj1 = "Qualquer tipo";
+            		object obj2 = 6.8F;
+
+        		}
+    		}
+	}

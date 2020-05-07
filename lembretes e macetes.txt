@@ -1,0 +1,5 @@
+	>Ctrl + K + D  (Identação automática)
+	>CW <tab><tab> (Console.Write())
+	>CultureInfo.InvariantCulture (troca "," por ".")
+	>
+	
