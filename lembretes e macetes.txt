@@ -1,5 +1,41 @@
 	>Ctrl + K + D  (Identação automática)
 	>CW <tab><tab> (Console.Write())
 	>CultureInfo.InvariantCulture (troca "," por ".")
-	>
+	>F9 (breakpoint) >F5 (debbug) >F10 (passo)
+	
+		
+		float n4 = 321.325F
+		Console.WriteLine("Float " + n4.ToString("F2", CultureInfo.Invaria			ntCulture));
+	
+	>variável.Split(' ');  (vai recortar texto nos espaços em branco ' ')
+		
+		variável = Console.ReadLine()
+		string[] vetor = variável.Split(' ')
+				ou
+		string[] vet = Console.ReadLine().Split(' ');
+	
+	>tipo.Parse() (Converte tipos para o ReadLine)
+		
+		int n1 = int.Parse(Console.ReadLine());
+		double n2 = double.Parse(Console.ReadLine(), 						CultureInfo.InvariantCulture);
+	
+	>Repetição for
+		sintaxe: for (início ; condição ; incremento){}
+				dá pra criar uma variável em "início"
+
+	>Classe
+		public double A;  <-- 
+		<nomedaClasse> x,y;
+		x = new <nomedaClasse>;
+		y = new <nomedaClasse>;
+		
+		x.A = double;
+		y.A = double;
+
+	>Função
+		Classe{
+			public static double Nome(){}   
+		}	//static caso não precise de objeto para instanciar
+		
+
 	
