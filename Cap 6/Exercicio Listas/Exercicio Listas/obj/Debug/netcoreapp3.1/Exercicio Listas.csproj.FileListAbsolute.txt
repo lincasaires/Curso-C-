@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.exe
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.dll
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\bin\Debug\netcoreapp3.1\Exercicio Listas.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.dll
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Exercicio Listas\Exercicio Listas\obj\Debug\netcoreapp3.1\Exercicio Listas.genruntimeconfig.cache

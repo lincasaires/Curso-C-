@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.exe
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.dll
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\bin\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.dll
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\resumo\Cap 6\Aula 1 a\Tipo Referencia Tipo Valor and Nullable\Tipo Referencia Tipo Valor and Nullable\obj\Debug\netcoreapp3.1\Tipo Referencia Tipo Valor and Nullable.csprojAssemblyReference.cache
