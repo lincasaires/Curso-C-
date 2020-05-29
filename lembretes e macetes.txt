@@ -47,12 +47,12 @@
             		Quantidade = quantidade;
         	}
 
-	>Vetor (ref)
+	>Vetor (tipo ref)
 		tipo[] nomeVet = new tipo[n]	
 		ex:
 			int[] vet = new int[10]
 
-	>Matriz (ref)
+	>Matriz (tipo ref)
 		tipo[,] nomeMatriz = new tipo[n,m]
 		ex:
 			int[] mat = new int[3,2]
@@ -84,6 +84,34 @@
 		List<string> nomeLista; // Cria variável tipo List<string>
 		nomeLista = new List<string>(); // Cria(instancia) uma lista vazia
 		~Ver cap 6
+
+	>Switch case
+		switch(x)
+            	{
+                	case 1: Console.WriteLine("1");
+                    	break;
+                	case 2: Console.WriteLine("2");
+                    	break;
+                	default: Console.WriteLine("nem 1 nem 2");
+                    	break;
+                }
+		
+	>Condição ternária: (condição) ? if true : if false
+	
+            string y = (x > 10) ? y = "x > 10" : y = "x <= 10";
+            Console.WriteLine(y);
+
+            //    Direto no cw
+            Console.WriteLine((x > 10) ? y = "x > 10" : y = "x <= 10");
+        }
+
+	>String (tipo ref)
+
+	>DateTime (tipo valor)(representa datehora)\
+						    cap 7
+	>TimeSpan (tipo valor) (representa duração)/
+	
+	
 		
 	
 		
