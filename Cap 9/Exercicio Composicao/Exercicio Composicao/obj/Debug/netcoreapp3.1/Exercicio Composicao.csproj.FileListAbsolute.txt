@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.exe
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\bin\Debug\netcoreapp3.1\Exercicio Composicao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio Composicao\Exercicio Composicao\obj\Debug\netcoreapp3.1\Exercicio Composicao.genruntimeconfig.cache

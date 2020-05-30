@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.exe
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 9\Exercicio de Fixacao\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.genruntimeconfig.cache

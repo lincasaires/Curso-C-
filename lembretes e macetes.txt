@@ -35,7 +35,7 @@
 	>Função
 		Classe{
 			public static double Nome(){}   
-		}	//static caso não precise de objeto para instanciar
+		}	//static caso não precise de objeto para instanciar ou caso queira que a função pertença à classe e não ao objeto
 		
 
 
