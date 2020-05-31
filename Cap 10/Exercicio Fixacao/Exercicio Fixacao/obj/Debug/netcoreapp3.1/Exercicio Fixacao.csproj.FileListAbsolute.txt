@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.exe
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\bin\Debug\netcoreapp3.1\Exercicio Fixacao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Exercicio Fixacao\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.genruntimeconfig.cache

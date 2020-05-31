@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\User\Desktop\c#\resumo\Cap 10\Casting e Downcasting\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
